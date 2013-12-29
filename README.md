@@ -36,29 +36,29 @@ The output should consist of the final state of the blocks world. Each original 
 There should be one line of output for each block position (i.e., n lines of output where n is the integer on the first line of input).
 
 
-##Sample Input 
+###Sample Input 
 
-10
-move 9 onto 1
-move 8 over 1
-move 7 over 1
-move 6 over 1
-pile 8 over 6
-pile 8 over 5
-move 2 over 1
-move 4 over 9
-quit
+10<br/>
+move 9 onto 1<br/>
+move 8 over 1<br/>
+move 7 over 1<br/>
+move 6 over 1<br/>
+pile 8 over 6<br/>
+pile 8 over 5<br/>
+move 2 over 1<br/>
+move 4 over 9<br/>
+quit<br/>
 
 
-##Sample Output
+###Sample Output
 
-  0: 0
- 1: 1 9 2 4
- 2:
- 3: 3
- 4:
- 5: 5 8 7 6
- 6:
- 7:
- 8:
- 9:
+ 0: 0<br/>
+ 1: 1 9 2 4<br/>
+ 2:<br/>
+ 3: 3<br/>
+ 4:<br/>
+ 5: 5 8 7 6<br/>
+ 6:<br/>
+ 7:<br/>
+ 8:<br/>
+ 9:<br/>
